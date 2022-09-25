@@ -1,0 +1,12 @@
+name: urlencoding
+version: 1.0.0
+
+description: |
+  liburlencoding binding.
+
+authors:
+  - XXIV
+
+crystal: 1.5.0
+
+license: MIT
